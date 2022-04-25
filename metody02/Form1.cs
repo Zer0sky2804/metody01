@@ -17,43 +17,76 @@ namespace metody02
             InitializeComponent();
         }
 
-        static private int Generuj( int dol = 0, int hor = 100)
+        static private int[] Generuj(int n )
         {
             Random nh = new Random();
-            int x = nh.Next(dol , hor );
+            int [] x= new int[n];
+            int dol = 1;
+            int hor = 100;
+            for (int i = 0; i < n; i++)
+            {
+                 x[i] = nh.Next(dol, hor);
+                
+            }
             return x;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        static private void vypis(int[]pole,ListBox lb)
         {
-            int n = int.Parse(textBox1.Text);
-            int a=int.Parse(textBox2.Text);
-            int b=int.Parse(textBox3.Text);
-            int sude = 0;
-            int liche = 0;
-            int[] pole = new int[n];
-            int max = b- 1;
-            int pmax=0;
-            for(int i = 0; i < n; i++)
+            lb.Items.Clear();
+            for (int i = 0; i < pole.Length; i++)
             {
-                pole[i]= Generuj( a, b);
-                listBox1.Items.Add(pole[i]);
-                if (Generuj( a, b) % 2 == 0)
+                
+                lb.Items.Add(pole[i]);
+            }
+        }
+
+
+        static private int ls(int[]pole,out int suda, out int licha)
+        {
+
+
+            for (int i = 0; i < pole.Length; i++)
+            {
+                if (pole[i] % 2 == 0)
                 {
-                    sude += Generuj( a, b);
+                    suda += pole[i];
                 }
                 else
                 {
-                    liche++;
+                    licha++;
                 }
-                if (Generuj( a, b) > max)
+            }
+        }
+
+
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {     int[] pole;
+            int n = int.Parse(textBox1.Text);
+            if (textBox2.Text == "" && textBox3.Text == "")
+            {
+                pole = Generuj(n);
+            }
+            else
+            {
+            int a=int.Parse(textBox2.Text);
+            int b=int.Parse(textBox3.Text);
+
+            }
+            int sude = 0;
+            int liche = 0;
+            int max = 0;
+            int pmax=0;
+       
+            
+                if (x[i] > max)
                 {
-                    max = Generuj( a, b);
+                    max = x[i];
                     pmax = i;
                 }
-                
-            }
-            
 
         }
     }

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metody01", "metody01\metody
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metody02", "metody02\metody02.csproj", "{8ED27603-C875-44F4-99A5-06A95A443DB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knihovna01", "knihovna01\knihovna01.csproj", "{18455B99-C6E0-402F-AD1E-11E455C2424A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matody01b", "matody01b\matody01b.csproj", "{64B04AA2-A7EF-4DBE-890C-8439CFCFF935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8ED27603-C875-44F4-99A5-06A95A443DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED27603-C875-44F4-99A5-06A95A443DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED27603-C875-44F4-99A5-06A95A443DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18455B99-C6E0-402F-AD1E-11E455C2424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18455B99-C6E0-402F-AD1E-11E455C2424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18455B99-C6E0-402F-AD1E-11E455C2424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18455B99-C6E0-402F-AD1E-11E455C2424A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B04AA2-A7EF-4DBE-890C-8439CFCFF935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B04AA2-A7EF-4DBE-890C-8439CFCFF935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B04AA2-A7EF-4DBE-890C-8439CFCFF935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B04AA2-A7EF-4DBE-890C-8439CFCFF935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
