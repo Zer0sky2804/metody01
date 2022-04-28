@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\poleUnit\poleUnit.csproj">
+      <Project>{5E716C47-D12E-482F-97A9-F04C72DBC136}</Project>
+      <Name>poleUnit</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
