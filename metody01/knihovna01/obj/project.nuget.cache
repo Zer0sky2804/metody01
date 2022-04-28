@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oaPIixb6qRjMOHphRe/iQDijfXEuZHucR3XwIj3YVyEI3szMZJn2IIwDx3E5RHEztofGJ6gjD0CurU9uXFCzQ==",
+  "success": true,
+  "projectFilePath": "G:\\Oškera\\09.Metody\\metody01\\knihovna01\\knihovna01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskeram.04\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oskeram.04\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

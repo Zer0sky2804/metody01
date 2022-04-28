@@ -1,0 +1,9 @@
+G:\Oškera\09.Metody\metody01\knihovna01\bin\Debug\netstandard2.0\knihovna01.deps.json
+G:\Oškera\09.Metody\metody01\knihovna01\bin\Debug\netstandard2.0\knihovna01.dll
+G:\Oškera\09.Metody\metody01\knihovna01\bin\Debug\netstandard2.0\knihovna01.pdb
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.csprojAssemblyReference.cache
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.AssemblyInfoInputs.cache
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.AssemblyInfo.cs
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.csproj.CoreCompileInputs.cache
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.dll
+G:\Oškera\09.Metody\metody01\knihovna01\obj\Debug\netstandard2.0\knihovna01.pdb

@@ -1,0 +1,5 @@
+G:\Oškera\09.Metody\metody01\metody02\obj\Debug\metody02.csprojAssemblyReference.cache
+G:\Oškera\09.Metody\metody01\metody02\obj\Debug\metody02.Form1.resources
+G:\Oškera\09.Metody\metody01\metody02\obj\Debug\metody02.Properties.Resources.resources
+G:\Oškera\09.Metody\metody01\metody02\obj\Debug\metody02.csproj.GenerateResource.cache
+G:\Oškera\09.Metody\metody01\metody02\obj\Debug\metody02.csproj.CoreCompileInputs.cache
