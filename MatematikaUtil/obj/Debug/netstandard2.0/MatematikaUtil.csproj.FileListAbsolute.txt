@@ -1,0 +1,8 @@
+G:\Oškera\09.Metody\metody01\MatematikaUtil\bin\Debug\netstandard2.0\MatematikaUtil.deps.json
+G:\Oškera\09.Metody\metody01\MatematikaUtil\bin\Debug\netstandard2.0\MatematikaUtil.dll
+G:\Oškera\09.Metody\metody01\MatematikaUtil\bin\Debug\netstandard2.0\MatematikaUtil.pdb
+G:\Oškera\09.Metody\metody01\MatematikaUtil\obj\Debug\netstandard2.0\MatematikaUtil.AssemblyInfoInputs.cache
+G:\Oškera\09.Metody\metody01\MatematikaUtil\obj\Debug\netstandard2.0\MatematikaUtil.AssemblyInfo.cs
+G:\Oškera\09.Metody\metody01\MatematikaUtil\obj\Debug\netstandard2.0\MatematikaUtil.csproj.CoreCompileInputs.cache
+G:\Oškera\09.Metody\metody01\MatematikaUtil\obj\Debug\netstandard2.0\MatematikaUtil.dll
+G:\Oškera\09.Metody\metody01\MatematikaUtil\obj\Debug\netstandard2.0\MatematikaUtil.pdb
