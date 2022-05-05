@@ -29,13 +29,15 @@ namespace matody03
             int a = int.Parse(textBox1.Text);
             int b = int.Parse(textBox2.Text);
             double u;
-            int o = Class1.obsah(a, b, out u);
+            
             if (a == b)
             {
-                label4.Text = "Obsah ctverce je " + o + " a uholpricke je " + u;
+                int o = Class1.obsah(a, out u);
+                label4.Text = "Obsah ctverce je " + o + " a uholpricka je " + u;
             }
             else
             {
+                int o = Class1.obsah(a, b, out u);
                 label4.Text = "Obsah obdelniku je " + o + " a uholpricke je " + u;
             }
         }
@@ -48,14 +50,16 @@ namespace matody03
             int b = int.Parse(textBox2.Text);
             int c = int.Parse(textBox3.Text);
             double u;
-            int o = Class1.k(a, b, c, out u);
+            
             if (a == b && b == c)
             {
+                int o = Class1.k(a, out u);
                 label5.Text = "osah krychle je " + o + " a uhlopricka je " + u;
             }
             else
             {
-                label5.Text = "osah krychle je " + o + " a uhlopricka je " + u;
+                int o = Class1.k(a, b, c, out u);
+                label5.Text = "osah kvadru je " + o + " a uhlopricka je " + u;
             }
         }
     }
